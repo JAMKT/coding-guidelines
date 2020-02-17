@@ -25,10 +25,10 @@
     └── README.md
 
 ## Naming conventions:
-* Folders: Lowercase, with dashes (-) as spaces
+* Folders: Lowercase, with dashes `-` as spaces
 * JS files (general): Camel-case
-* Models: Uppercase (only first letter)
-* .md files: Uppercase (all letters)
+* Models: Capitalized
+* .md files: Uppercase
 
 ### Work In Process
     
