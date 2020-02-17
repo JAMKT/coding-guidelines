@@ -1,6 +1,7 @@
 # App Structure
 ======================
-> Basic folder structure
+## Basic folder structure
+
     .
     ├── /client            # React or Vue app
     ├── /routes           # Handles routing
@@ -25,9 +26,9 @@
 
 ## Naming conventions:
 > Folders: Lowercase, with dashes (-) as spaces
-> JS files (general): Camel-case
-> Models: Uppercase (only first letter)
-> .md files: Uppercase (all letters)
+  JS files (general): Camel-case
+  Models: Uppercase (only first letter)
+  .md files: Uppercase (all letters)
 
 ### Work In Process
     
