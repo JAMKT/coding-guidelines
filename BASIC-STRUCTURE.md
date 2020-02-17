@@ -1,5 +1,5 @@
 # App Structure
-======================
+
 ## Basic folder structure
 
     .
@@ -25,10 +25,11 @@
     └── README.md
 
 ## Naming conventions:
+
 > Folders: Lowercase, with dashes (-) as spaces
-  JS files (general): Camel-case
-  Models: Uppercase (only first letter)
-  .md files: Uppercase (all letters)
+JS files (general): Camel-case
+Models: Uppercase (only first letter)
+.md files: Uppercase (all letters)
 
 ### Work In Process
     
