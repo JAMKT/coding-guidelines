@@ -27,7 +27,7 @@
 ## Naming conventions:
 * Folders: Lowercase, with dashes `-` as spaces
 * JS files (general): Camel-case
-* Models: Capitalized
+* Models and classes: Capitalized
 * .md files: Uppercase
 
 ### Work In Process
