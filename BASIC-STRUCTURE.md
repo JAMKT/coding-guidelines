@@ -13,6 +13,7 @@
         ├── Chat.js
         └── ...
     ├── /config           # Stores config files and keys
+        ├── env.js
         └── keys.js
     ├── /middleware       # Contains Node.js middleware files
         ├── ...
