@@ -13,11 +13,7 @@
         ├── Chat.js
         └── ...
     ├── /config           # Stores config files and keys
-        ├── passport.js
-        ├── dbKeys.js
-        ├── devDbKeys.js
-        ├── prodDbKeys.js
-        └── config.js
+        └── dbKeys.js
     ├── /middleware       # Contains Node.js middleware files
         ├── ...
         └── ...
