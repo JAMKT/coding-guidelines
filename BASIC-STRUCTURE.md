@@ -3,7 +3,7 @@
 ## Basic folder structure
 
     .
-    ├── /client           # React or Vue app (**Important**: the name of the app needs to be "client")
+    ├── /client           # React or Vue app (Important: the name of the app needs to be "client")
     ├── /routes           # Handles routing
         ├── auth.js
         ├── chat.js
