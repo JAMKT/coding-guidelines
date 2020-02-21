@@ -18,7 +18,7 @@
     ├── /middleware       # Contains Node.js middleware files
         ├── ...
         └── ...
-    ├── app.js            # Main
+    ├── server.js         # Main
     └── README.md
 
 ## Naming conventions:
