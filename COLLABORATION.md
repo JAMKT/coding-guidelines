@@ -12,7 +12,7 @@
   - Write a title for your issue, as well as a descriptive comment, if necessary.
   - Assign the issue to someone (it could be yourself, someone else or more than one person).
   - You can also assign existing labels to the issue (recommended).
-  - You MUST add a project to the issue, if you want to see it in there.
+  - You **MUST** add a project to the issue!
   - Newly opened issues will automatically be added to the "`To do`" column in the project.
   - Closed issues will automatically be added to the "`Done`" column in the project.
 
