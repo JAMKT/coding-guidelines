@@ -4,4 +4,4 @@
 * BASIC-STRUCTURE.md: Basic application's structure + naming conventions
 * COLLABORATION.md: Guidelines for GIT ang Github Projects
 
-### Work In Progress
+### Work In Progress - Feel free to add whatever you want
