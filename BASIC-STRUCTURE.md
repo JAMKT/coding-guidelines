@@ -1,4 +1,4 @@
-# App Structure
+# Chat App Structure
 
 ## Basic folder structure
 
